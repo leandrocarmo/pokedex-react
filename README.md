@@ -3,7 +3,7 @@ Antes de iniciar o projeto, você precisa ter o Node.js e o npm (gerenciador de 
 
 # Configuração e Instalação
     1. Vite: Este projeto utiliza o Vite.
-        ◦ Npm create vite@latest
+        ◦ npm create vite@latest
           
     2. Bibliotecas de Dependências:
         ◦ Instale o Material-UI e as dependências relacionadas ao Emotion:
